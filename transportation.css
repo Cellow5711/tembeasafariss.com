@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-area{
+    text-align: left;
+}
+.nav-area a{
+    float: inline-start;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    padding: 5px 30px;
+    text-decoration:none;
+}
+.nav-area a:hover{
+    color: red;
+    background: fixed;
+}
+.nav-area p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.welcome-text h1,h2,h3{
+     text-align: center;
+     color: darkred;
+     text-decoration: underline;
+}
+.welcome-text p{
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: slateblue;
+}
+.welcome-text a{
+    float: inline-start;
+    padding: 5px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: blue;
+    text-decoration: none;
+    
+}
+.welcome-text a:hover{
+    color: royalblue;
+    background: fixed;
+}

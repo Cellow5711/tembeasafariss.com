@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 0;
+    margin: auto;
+}
+.nav-area{
+    float: left;
+    margin-top: 30px;
+    text-decoration:none ;
+}
+.nav-area a{
+    color: blue;
+    text-decoration: none;
+    padding: 5px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: inline-block;
+}
+.nav-area a:hover{
+    background: fixed;
+    color: red;
+    text-decoration: none;
+}
+.about{
+    text-align: justify;
+}
+
+.about h1,h2{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orangered;
+    text-align: justify;
+}
+.about p{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif ;
+}
+.attraction h3{
+      font-size: 40px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: orangered;
+      text-align: center;
+}
+.attraction p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}

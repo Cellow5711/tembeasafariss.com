@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+.nav-area{
+    float: inline-start;
+    margin-top: 30px;
+}
+.nav-area a{
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+.nav-area a:hover{
+    background: fixed;
+    color: red;
+}
+.accomodation{
+    text-align: center;
+}
+.accomodation h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+.accomodation p{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.details{
+    text-align: left;
+}
+.details p{
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:indigo; 
+}
+.details img{
+    width: 100mm;
+    height: 100mm;
+}
